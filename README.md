@@ -60,7 +60,7 @@ ping <IP-адрес Машины B>
 ```
 Bash
 
-sudo iptables -A OUTPUT -d 192.168.0.101 -j DROP
+sudo iptables -A OUTPUT -d <IP-адрес Машины B> -j DROP
 sudo iptables-save | sudo tee
 ```
 ![image](https://github.com/user-attachments/assets/afd7fe8a-6b33-421b-ba9c-c9095aa90957)
