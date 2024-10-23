@@ -61,9 +61,9 @@ ping <IP-адрес Машины B>
 ```bash
 
 sudo iptables -A OUTPUT -d <IP-адрес Машины B> -j DROP
-sudo iptables-save | sudo tee
 ```
-![image](https://github.com/user-attachments/assets/afd7fe8a-6b33-421b-ba9c-c9095aa90957)
+![5235953846000412074](https://github.com/user-attachments/assets/3ffa7cfa-38df-49ed-9321-e1932e52175a)
+
 
 
 ### Шаг 6: Настройка доступа между машинами
