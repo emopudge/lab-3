@@ -62,7 +62,7 @@ ping <IP-адрес Машины B>
 
 sudo iptables -A OUTPUT -d <IP-адрес Машины B> -j DROP
 ```
-![5235953846000412074](https://github.com/user-attachments/assets/3ffa7cfa-38df-49ed-9321-e1932e52175a)
+![5235953846000412074](https://github.com/user-attachments/assets/dd98631d-4339-4783-b6a8-28e05fff10e7)
 
 
 
