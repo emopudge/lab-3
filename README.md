@@ -25,7 +25,7 @@
 
 В терминале "Машины A" выполнила команду:
 ```markdown
-bash
+```bash
 
 ping google.com
 ```
